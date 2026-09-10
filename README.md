@@ -1,12 +1,13 @@
 # Hi, I'm Sujal Boda 👋
 
+
+<img src="./Untitled464_20260910054314.png">
+
 ### Full-Stack AI Engineer • Computer Vision • AI Products • Unreal Engine Developer
 
 I build production-grade AI applications from idea to deployment.
 
 My focus is building AI systems that solve real-world problems using FastAPI, React, Gemini, Computer Vision, Retrieval-Augmented Generation, and modern software architecture.
-
-<img src="./Untitled464_20260910054314.png">
 
 ## 🚀 About Me
 
