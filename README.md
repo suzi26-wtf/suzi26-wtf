@@ -6,6 +6,8 @@ I build production-grade AI applications from idea to deployment.
 
 My focus is building AI systems that solve real-world problems using FastAPI, React, Gemini, Computer Vision, Retrieval-Augmented Generation, and modern software architecture.
 
+<img src="./Untitled464_20260910054314.png">
+
 ## 🚀 About Me
 
 • 🤖 Building production-grade AI applications
